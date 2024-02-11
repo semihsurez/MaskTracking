@@ -1,2 +1,2 @@
 # MaskTracking
- 2024 C# Yazılım Geliştirici Eğitim Kampındaki 04.02.2024 tarihinde verilen Ödev 2
+ Assignment 2 given in the first week(February 4, 2024) of the 2024 C# Software Developer Training Camp. 
