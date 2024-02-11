@@ -1,0 +1,12 @@
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\SammaS09\source\repos\MaskTracking\Entities\obj\Debug\net5.0\Entities.pdb
